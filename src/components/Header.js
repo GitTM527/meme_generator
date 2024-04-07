@@ -7,8 +7,8 @@ function Header () {
             <img src="./images/Troll Face.png" alt=""
                 className="header--image"
             />
-            <h2 className="header--title">Header Component</h2>
-            <h4 className="header--project">React Course - Project 3</h4>
+            <h2 className="header--title">MEME GENERATOR</h2>
+            <h4 className="header--project">Built by Oluwatobi</h4>
         </header>
         
     )
